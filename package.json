@@ -1,0 +1,22 @@
+{
+  "name": "evento-react-conf-br",
+  "version": "1.0.0",
+  "description": "Evento React Conf BR",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilianoeloi/evento-ReactConfBr.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "emilianoeloi@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilianoeloi/evento-ReactConfBr/issues"
+  },
+  "homepage": "https://github.com/emilianoeloi/evento-ReactConfBr#readme"
+}
